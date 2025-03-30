@@ -1,4 +1,7 @@
+@import url('primitives.css');
+
 :root {
+
     --variable-one: 20px;
     --variable-one: TestString;
 }
