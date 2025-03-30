@@ -2,6 +2,5 @@
 
 :root {
 
-    --variable-one: 20px;
-    --variable-one: TestString;
+    --variable-one: var(--ads-color-white-100);
 }
